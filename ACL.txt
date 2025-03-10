@@ -1,0 +1,5 @@
+Alice;rw;rw;rw;ok;r
+Bob;r;r;rw;ok;r
+Carol;RW;-;-;-;r
+David;-;-;rw;ok;r
+Faculty;rw;-;rw;ok;r
